@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Room Monitoring"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="20dp" />
+
+        <!-- Room 1: ComPLab3 -->
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F5F5F5"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:id="@+id/textViewRoom1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Room: Computer Laboratory 3"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFacultyName1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Instructor: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewStatus1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Status: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewDoorStatus1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Door: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewTime1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+        </LinearLayout>
+
+        <!-- Room 2: CpELab -->
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F5F5F5"
+            android:padding="16dp"
+            android:elevation="4dp">
+
+            <TextView
+                android:id="@+id/textViewRoom2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Room: CpE Laboratory"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textViewFacultyName2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Instructor: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewStatus2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Status: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewDoorStatus2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Door: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+
+            <TextView
+                android:id="@+id/textViewTime2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time: —"
+                android:textSize="18sp"
+                android:layout_marginTop="6dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
