@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "997059640039",
+    "firebase_url": "https://facultyfacialrecognition-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "facultyfacialrecognition",
+    "storage_bucket": "facultyfacialrecognition.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997059640039:android:3aee406d859f603dfdc042",
+        "android_client_info": {
+          "package_name": "com.example.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997059640039-lrkdam6ppmd723683ic9rf4lhhd0t6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF69qymLlV2zuhUREbS0H8ixYpBcRSJH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997059640039-lrkdam6ppmd723683ic9rf4lhhd0t6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997059640039:android:3febe191b51d5d77fdc042",
+        "android_client_info": {
+          "package_name": "com.sd.facultyfacialrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997059640039-hutug1ibhog8jie7i64s6baqglueevqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sd.facultyfacialrecognition",
+            "certificate_hash": "84bbbc8f1fa69b4f26fdf40cc4dbad2b0ab811f7"
+          }
+        },
+        {
+          "client_id": "997059640039-oppn2p13jji9666v9jg1o5htlifje5q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sd.facultyfacialrecognition",
+            "certificate_hash": "9709139771b9bf0a73218443bc1c685912c442f0"
+          }
+        },
+        {
+          "client_id": "997059640039-lrkdam6ppmd723683ic9rf4lhhd0t6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF69qymLlV2zuhUREbS0H8ixYpBcRSJH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997059640039-lrkdam6ppmd723683ic9rf4lhhd0t6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
